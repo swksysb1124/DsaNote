@@ -41,4 +41,4 @@ A personal note for Data structure and algorithm learning
 - Spiral Matrix
 - Search a 2D Matrix
 - Rotate Image
-- Triangle
+- [Triangle](https://github.com/swksysb1124/DsaNote/blob/main/Triangle.md)
