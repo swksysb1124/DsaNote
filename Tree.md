@@ -8,6 +8,15 @@ class BinaryTreeNode(val v: Int) {
     var right: BinaryTreeNode? = null
 }
 ```
+ 
+*Python3*
+```pythin3
+class BinaryTreeNode:
+    def __init__(self, v: int):
+        self.v = v
+        self.left = None
+        self.right = None
+```
 
 ### 遍歷
 
@@ -23,6 +32,19 @@ fun traverse(node: BinaryTreeNode?) {
 }
 ```
 
+*Python3*
+```python3
+def traverse(node: Birthday):
+    if node == None:
+        return
+
+    # pre-order traversal, print(node.v) or other handlings 
+    traverse(node.left)
+    # in-order traversal, print(node.v) or other handlings 
+    traverse(node.right)
+    # post-order travrsal, print(node.v) or other handlings is the 
+```
+
 ## N元樹 (N Tree)
 *Kotlin*
 ```kotlin
@@ -31,13 +53,31 @@ class TreeNode(val v: Int) {
 }
 ```
 
+*Python3*
+```python3
+class TreeNode:
+    def __init__(self, v: int):
+        self.v = v
+        self.children = []
+```
+
 ### 遍歷
+*Kotlin*
 ```kotlin
 fun traverse(node: TreeNode?) {
-    // pre order
+    // pre-order traversal 
     for (child in node.children) {
         traverse(child)
     }
-    // post order
+    // post-order travrsal 
 }
+```
+
+*Python3*
+```python3
+def traverse(node: TreeNode):
+    # pre-order 
+    for child in node.children:
+        traverse(child)
+    # post-order 
 ```
