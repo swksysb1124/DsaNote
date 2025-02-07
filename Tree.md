@@ -10,7 +10,7 @@ class BinaryTreeNode(val v: Int) {
 ```
  
 *Python3*
-```pythin3
+```python3
 class BinaryTreeNode:
     def __init__(self, v: int):
         self.v = v
