@@ -1,4 +1,4 @@
-# Linked Node 結構
+# Linked List 結構
 
 **資料結構**
 
