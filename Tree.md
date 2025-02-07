@@ -65,6 +65,8 @@ class TreeNode:
 *Kotlin*
 ```kotlin
 fun traverse(node: TreeNode?) {
+    if (node == null) return 
+
     // pre-order traversal 
     for (child in node.children) {
         traverse(child)
@@ -75,9 +77,12 @@ fun traverse(node: TreeNode?) {
 
 *Python3*
 ```python3
-def traverse(node: TreeNode):
-    # pre-order 
+def traverse(node: TreeNode):  
+    if node == None:
+        return 
+
+    # pre-order traversal 
     for child in node.children:
         traverse(child)
-    # post-order 
+    # post-order travrsal 
 ```
