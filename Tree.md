@@ -15,11 +15,11 @@ class BinaryTreeNode(val v: Int) {
 ```kotlin
 fun traverse(node: BinaryTreeNode?) {
     if (node == null) return
-    // preOrder
+    // pre-order, print(node.v) or other handlings
     traverse(node.left)
-    // middleOrder
+    // in-order, print(node.v) or other handlings
     traverse(node.right)
-    // postOrder
+    // post-order, print(node.v) or other handlings 
 }
 ```
 
