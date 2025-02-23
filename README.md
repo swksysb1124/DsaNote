@@ -50,3 +50,4 @@ A personal note for Data structure and algorithm learning
 - [Permutations](https://github.com/swksysb1124/DsaNote/blob/main/Permutations.md)
 - [N-Queen](https://github.com/swksysb1124/DsaNote/blob/main/NQueen.md)
 - [Minimum Depth of Binary Tree](https://github.com/swksysb1124/DsaNote/blob/main/MimDepthBT.md)
+- [Open the Lock](https://github.com/swksysb1124/DsaNote/blob/main/OpenLock.md)
