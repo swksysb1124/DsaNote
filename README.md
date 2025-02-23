@@ -4,6 +4,7 @@ A personal note for Data structure and algorithm learning
 
 ## Algorithm
 - [Fibonassi](https://github.com/swksysb1124/DsaNote/blob/main/Fibonassi.md)
+- [Binary Searc](https://github.com/swksysb1124/DsaNote/blob/main/BinarySearch.md)
 
 ## Data Structure
 - [Linked List](https://github.com/swksysb1124/DsaNote/blob/main/ListNode.md)
