@@ -29,7 +29,7 @@ A personal note for Data structure and algorithm learning
 - Median of Two Sorted Arrays
 - Merge Intervals
 - Insert Interval
-- Two Sum
+- [Two Sum](https://github.com/swksysb1124/DsaNote/blob/main/TwoSum.md)
 - Two Sum II Input array is sorted
 - Two Sum III Data structure design
 - 3Sum
