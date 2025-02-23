@@ -51,4 +51,4 @@ A personal note for Data structure and algorithm learning
 - [N-Queen](https://github.com/swksysb1124/DsaNote/blob/main/NQueen.md)
 - [Minimum Depth of Binary Tree](https://github.com/swksysb1124/DsaNote/blob/main/MimDepthBT.md)
 - [Open the Lock](https://github.com/swksysb1124/DsaNote/blob/main/OpenLock.md)
-- [Linked List Cycle](https://github.com/swksysb1124/DsaNote/blob/main/LinkedListCycle/.md)
+- [Linked List Cycle](https://github.com/swksysb1124/DsaNote/blob/main/LinkedListCycle.md)
