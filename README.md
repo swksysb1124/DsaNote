@@ -30,7 +30,7 @@ A personal note for Data structure and algorithm learning
 - Merge Intervals
 - Insert Interval
 - [Two Sum](https://github.com/swksysb1124/DsaNote/blob/main/TwoSum.md)
-- Two Sum II Input array is sorted
+- [Two Sum II Input array is sorted](https://github.com/swksysb1124/DsaNote/blob/main/TwoSumSortedArray.md)
 - Two Sum III Data structure design
 - 3Sum
 - 4Sum
