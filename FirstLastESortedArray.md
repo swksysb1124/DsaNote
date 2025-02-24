@@ -33,7 +33,7 @@ Output: [-1,-1]
 
 ## Solution
 ### Binary Search
-
+```kotlin
 class Solution {
     fun searchRange(nums: IntArray, target: Int): IntArray {
         // corner case
@@ -80,3 +80,4 @@ class Solution {
         return if (right < n && right >= 0 && nums[right] == target) right else -1
     }
 }
+```
