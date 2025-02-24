@@ -4,7 +4,8 @@ A personal note for Data structure and algorithm learning
 
 ## Algorithm
 - [Fibonassi](https://github.com/swksysb1124/DsaNote/blob/main/Fibonassi.md)
-- [Binary Searc](https://github.com/swksysb1124/DsaNote/blob/main/BinarySearch.md)
+- [Binary Search](https://github.com/swksysb1124/DsaNote/blob/main/BinarySearch.md)
+
 
 ## Data Structure
 - [Linked List](https://github.com/swksysb1124/DsaNote/blob/main/ListNode.md)
@@ -55,3 +56,4 @@ A personal note for Data structure and algorithm learning
 - [Linked List Cycle](https://github.com/swksysb1124/DsaNote/blob/main/LinkedListCycle.md)
 - [Linked List Cycle II](https://github.com/swksysb1124/DsaNote/blob/main/LinkedListCycleII.md)
 - [Middle of the Linked List](https://github.com/swksysb1124/DsaNote/blob/main/MiddleLinkedList.md)
+- [Find First and Last Position of Element in Sorted Array](https://github.com/swksysb1124/DsaNote/blob/main/FirstLastESortedArray.md)
