@@ -30,8 +30,8 @@ Output: [[1]]
 ```kotlin
 class Solution {
     fun permute(nums: IntArray): List<List<Int>> {
-        val track = mutableList<Int>()
-        val res = MutableList<List<Int>>()
+        val track = mutableListOf<Int>()
+        val res = mutableListOf<List<Int>>()
 
         fun backtracking(nums: IntArray) {
             if (track.size == nums.size) {
