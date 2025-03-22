@@ -49,6 +49,7 @@ A personal note for Data structure and algorithm learning
 - Rotate Image
 - [Triangle](https://github.com/swksysb1124/DsaNote/blob/main/Triangle.md)
 - [Coin Change](https://github.com/swksysb1124/DsaNote/blob/main/CoinChange.md)
+- [Coin Change II](https://github.com/swksysb1124/DsaNote/blob/main/CoinChangeII.md)
 - [Permutations](https://github.com/swksysb1124/DsaNote/blob/main/Permutations.md)
 - [N-Queen](https://github.com/swksysb1124/DsaNote/blob/main/NQueen.md)
 - [Minimum Depth of Binary Tree](https://github.com/swksysb1124/DsaNote/blob/main/MimDepthBT.md)
@@ -57,3 +58,4 @@ A personal note for Data structure and algorithm learning
 - [Linked List Cycle II](https://github.com/swksysb1124/DsaNote/blob/main/LinkedListCycleII.md)
 - [Middle of the Linked List](https://github.com/swksysb1124/DsaNote/blob/main/MiddleLinkedList.md)
 - [Find First and Last Position of Element in Sorted Array](https://github.com/swksysb1124/DsaNote/blob/main/FirstLastESortedArray.md)
+- [Partition Equal Subset Sum](https://github.com/swksysb1124/DsaNote/blob/main/PartitionEqualSubsetSum.md)
