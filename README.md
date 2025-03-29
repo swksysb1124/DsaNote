@@ -11,6 +11,7 @@ A personal note for Data structure and algorithm learning
 - [Linked List](https://github.com/swksysb1124/DsaNote/blob/main/ListNode.md)
 - [Tree](https://github.com/swksysb1124/DsaNote/blob/main/Tree.md)
 - [LRUCache](https://github.com/swksysb1124/DsaNote/blob/main/LRUCache.md)
+- [LFUCahce](https://github.com/swksysb1124/DsaNote/blob/main/LFUCahce.md)
 
 ## Leetcode Question List
 - Container With Most Water 
