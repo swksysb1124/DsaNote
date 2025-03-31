@@ -64,3 +64,4 @@ A personal note for Data structure and algorithm learning.
 - [House Robber II](https://github.com/swksysb1124/DsaNote/blob/main/HouseRobberII.md)
 - [Same Tree](https://github.com/swksysb1124/DsaNote/blob/main/SameTree.md)
 - [Validate Binary Search Tree](https://github.com/swksysb1124/DsaNote/blob/main/ValidBST.md)
+- [Search in a Binary Search Tree](https://github.com/swksysb1124/DsaNote/blob/main/SearchInBST.md)
