@@ -64,7 +64,7 @@ class Solution {
 
 |Time Complexity|Space Complexity|
 |:---:|:---:|
-| O(n<sup>2</sup>)|O(n<sup>2</sup>) |
+| O(n<sup>2</sup>)|O(1) |
 
 
 ### DP
@@ -126,4 +126,4 @@ class Solution {
 ```
 |Time Complexity|Space Complexity|
 |:---:|:---:|
-| O(n<sup>2</sup>)|O(1) |
+| O(n<sup>2</sup>)|O(n<sup>2</sup>)|
