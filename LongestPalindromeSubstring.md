@@ -21,7 +21,7 @@ Output: "bb"
 
 ## Solution
 
-### Burst Force
+### Simple approach
 ```kotlin
 class Solution {
     private var maxLen = 0
@@ -61,6 +61,11 @@ class Solution {
     }
 }
 ```
+
+|Time Complexity|Space Complexity|
+|:---:|:---:|
+| O(n<sup>2</sup>)|O(n<sup>2</sup>) |
+
 
 ### DP
 
@@ -119,3 +124,6 @@ class Solution {
     }
 }
 ```
+|Time Complexity|Space Complexity|
+|:---:|:---:|
+| O(n<sup>2</sup>)|O(1) |
