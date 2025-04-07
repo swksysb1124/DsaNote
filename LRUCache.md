@@ -161,33 +161,44 @@ class DoubleList {
 **使用LinkedHashMap**
 ```kotlin
 class LRUCache(private val capacity: Int) {
+    // 快取採用 LinkedHashMap，
+    // 兼具時序性及快取值的特性
     private val cache = LinkedHashMap<Int, Int>()
 
     fun get(key: Int): Int {
+        // 快取沒有該鍵，返回無效值
         if (!cache.containsKey(key)) {
             return -1
         }
-
+        
+        // 更新鍵最近被使用過
         makeRecently(key)
+        // 回傳快取值
         return cache[key]!!
     }
 
     fun put(key: Int, value: Int) {
+        // 快取包含key，則更新值及key最近被使用，並返回
         if (cache.contains(key)) {
             cache.put(key, value)
             makeRecently(key)
             return 
         }
-
+        
+        //如果快取已滿，先把最不常使用的鍵值移除
         if (cache.size >= capacity) {
             val oldestKey = cache.keySet().first()
             cache.remove(oldestKey)
         }
+        
+        // 更新值（由於不存在，所以是新增加鍵值，也會是最近使用
         cache.put(key, value)
     }
-
+ 
+    // 更新鍵最近被使用
     private fun makeRecently(key: Int) {
         val value = cache.getOrDefault(key, null) ?: return
+        // 先移除該鍵值，再重新加入，就會是最近的使用
         cache.remove(key)
         cache.put(key, value)
     }
