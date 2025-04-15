@@ -68,3 +68,4 @@ A personal note for Data structure and algorithm learning.
 - [Insert into a Binary Search Tree](https://github.com/swksysb1124/DsaNote/blob/main/InsertIntoBST.md)
 - [Count Complete Tree Nodes](https://github.com/swksysb1124/DsaNote/blob/main/CountCBT.md)
 - [Delete Node in a BST](https://github.com/swksysb1124/DsaNote/blob/main/DeleteBST.md)
+- [Serialize and Deserialize Binary Tree](https://github.com/swksysb1124/DsaNote/blob/main/SerializeDeserializeBT.md)
