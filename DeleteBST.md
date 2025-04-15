@@ -12,7 +12,7 @@
  *     var right: TreeNode? = null
  * }
  */
-lass Solution {
+class Solution {
     fun deleteNode(root: TreeNode?, key: Int): TreeNode? {
         if (root == null) return null
         if (root.`val` == key) {
