@@ -11,6 +11,7 @@ A personal note for Data structure and algorithm learning.
 - [Tree](https://github.com/swksysb1124/DsaNote/blob/main/Tree.md)
 - [LRUCache](https://github.com/swksysb1124/DsaNote/blob/main/LRUCache.md)
 - [LFUCache](https://github.com/swksysb1124/DsaNote/blob/main/LFUCache.md)
+- [Min Heap](https://github.com/swksysb1124/DsaNote/blob/main/MinHeap.md)
 
 ## Leetcode Question List
 - Container With Most Water 
@@ -70,3 +71,4 @@ A personal note for Data structure and algorithm learning.
 - [Delete Node in a BST](https://github.com/swksysb1124/DsaNote/blob/main/DeleteBST.md)
 - [Serialize and Deserialize Binary Tree](https://github.com/swksysb1124/DsaNote/blob/main/SerializeDeserializeBT.md)
 - [Replace Words](https://github.com/swksysb1124/DsaNote/blob/main/ReplaceWords.md)
+- [First Bad Version](https://github.com/swksysb1124/DsaNote/blob/main/FirstBadVersion.md)
