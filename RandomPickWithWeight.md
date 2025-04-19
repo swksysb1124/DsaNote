@@ -55,6 +55,14 @@ and so on.
 
 
 ## Solution
+舉例來說，當 `w = [1, 3, 2]`，我們計算一個**累計權重** `accumulated = [1, 4, 6]`。
+由一個亂數生成的 `x` 介於 `[0, 6)` 之間。
+- 當 `x` 介於 `[0, 1)`，取得的索引為 `0`，機率為 `1/6`
+- 當 `x` 介於 `[1, 4)`，取得的索引為 `1`，機率為 `4/6`
+- 當 `x` 介於 `[4, 6)`，取得的索引為 `2`，機率為 `2/6`
+
+我們可以利用 **Binary Search** 求得一個 **最小 `i` 使得 `accumulated[i] > x`**。
+
 ```kotlin
 class Solution(w: IntArray) {
     private val accumulated = w.copyOf()
@@ -68,11 +76,11 @@ class Solution(w: IntArray) {
     }
 
     fun pickIndex(): Int {
-        val x = Random.nextInt(total) // range is [0, total - 2] 
+        val x = Random.nextInt(total) // range [0, total)
         var left = 0
         var right = accumulated.size - 1
 
-        // Binary search to find the smallest index such that accumulated[index] > x
+        // Binary search to find the smallest i such that accumulated[i] > x
         while (left <= right) {
             val mid = left + (right - left)/2
             if (accumulated[mid] == x) {
