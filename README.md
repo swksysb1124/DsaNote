@@ -75,3 +75,4 @@ A personal note for Data structure and algorithm learning.
 - [Find Leaves of Binary Tree](https://github.com/swksysb1124/DsaNote/blob/main/FindBinaryLeaves.md)
 - [Random Pick with Weight](https://github.com/swksysb1124/DsaNote/blob/main/RandomPickWithWeight.md)
 - [Happy Number](https://github.com/swksysb1124/DsaNote/blob/main/IsHAppy.md)
+- [Logger Rate Limiter](https://github.com/swksysb1124/DsaNote/blob/main/LoggerRateLimiter.md)
