@@ -73,3 +73,4 @@ A personal note for Data structure and algorithm learning.
 - [Replace Words](https://github.com/swksysb1124/DsaNote/blob/main/ReplaceWords.md)
 - [First Bad Version](https://github.com/swksysb1124/DsaNote/blob/main/FirstBadVersion.md)
 - [Find Leaves of Binary Tree](https://github.com/swksysb1124/DsaNote/blob/main/FindBinaryLeaves.md)
+- [Random Pick with Weight](https://github.com/swksysb1124/DsaNote/blob/main/RandomPickWithWeight.md)
