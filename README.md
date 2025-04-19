@@ -74,3 +74,4 @@ A personal note for Data structure and algorithm learning.
 - [First Bad Version](https://github.com/swksysb1124/DsaNote/blob/main/FirstBadVersion.md)
 - [Find Leaves of Binary Tree](https://github.com/swksysb1124/DsaNote/blob/main/FindBinaryLeaves.md)
 - [Random Pick with Weight](https://github.com/swksysb1124/DsaNote/blob/main/RandomPickWithWeight.md)
+- [Happy Number](https://github.com/swksysb1124/DsaNote/blob/main/IsHAppy.md)
