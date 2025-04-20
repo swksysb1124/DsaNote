@@ -68,3 +68,17 @@ class MinHeap(private var capacity: Int) {
     }
 }
 ```
+
+也可以直接使用現成的 `PriorityQueue`
+
+**Min Heap**
+
+```kotlin
+val minHeap = PriorityQueue<Int>()
+```
+
+**Max Heap**
+
+```kotlin
+val manHeap = PriorityQueue<Int> { x, y -> y.compareTo(x) }
+```
