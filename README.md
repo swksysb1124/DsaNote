@@ -77,3 +77,4 @@ A personal note for Data structure and algorithm learning.
 - [Happy Number](https://github.com/swksysb1124/DsaNote/blob/main/IsHAppy.md)
 - [Logger Rate Limiter](https://github.com/swksysb1124/DsaNote/blob/main/LoggerRateLimiter.md)
 - [Text Justification](https://github.com/swksysb1124/DsaNote/blob/main/TextJustification.md)
+- [Number of Islands](https://github.com/swksysb1124/DsaNote/blob/main/NumberOfIslands.md)
