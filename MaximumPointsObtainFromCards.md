@@ -35,6 +35,7 @@ Explanation: You have to take all the cards. Your score is the sum of points of 
 
 ## Solution
 **Sliding Window**
+
 以左右兩指針 left、right 定義一個 `[left, right)` 的 **window**，使得 **window** 外部的數量剛好為 k。
 初始計算 `[right, cardPoints.length - 1]` 區間的總和，接下來每次將 window 往右移動一格，來更新總和值，並由這些不同的總和值取最大值。
 
