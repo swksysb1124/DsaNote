@@ -77,8 +77,9 @@ class Solution {
         val map = HashMap<Int, Int>()
         var res = 0
         var sum = 0
-        for (i in 0..<nums.size) {
-            sum += nums[i] // 計算前綴和
+        for (num in nums) {
+            sum += num // 計算前綴和
+            
             if (sum == k) {
                 res++ // 若目前前綴和剛好是 k，表示 [0..i] 是一個合法子陣列
             }
