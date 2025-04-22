@@ -81,3 +81,4 @@ A personal note for Data structure and algorithm learning.
 - [Meeting Rooms II](https://github.com/swksysb1124/DsaNote/blob/main/MeetingRoomsII.md)
 - [Decode String](https://github.com/swksysb1124/DsaNote/blob/main/DecodeString.md)
 - [Maximum Points You Can Obtain from Cards](https://github.com/swksysb1124/DsaNote/blob/main/MaximumPointsObtainFromCards.md)
+- [Number of Matching Subsequences](https://github.com/swksysb1124/DsaNote/blob/main/NumberOfMatchingSubsequences.md)
