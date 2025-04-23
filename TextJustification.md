@@ -52,13 +52,13 @@ Output:
 ]
 ``` 
 
-Constraints:
+**Constraints:**
 
-1 <= words.length <= 300
-1 <= words[i].length <= 20
-words[i] consists of only English letters and symbols.
-1 <= maxWidth <= 100
-words[i].length <= maxWidth
+- `1 <= words.length <= 300`
+- `1 <= words[i].length <= 20`
+- `words[i]` consists of only English letters and symbols.
+- `1 <= maxWidth <= 100`
+- `words[i].length <= maxWidth`
 
 ## Solution
 
