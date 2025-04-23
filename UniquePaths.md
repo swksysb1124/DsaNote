@@ -73,3 +73,22 @@ class Solution {
     }
 }
 ```
+
+壓縮到一維
+
+```kotlin
+class Solution {
+    fun uniquePaths(m: Int, n: Int): Int {
+        val dp = IntArray(n) { 0 }
+        dp[0] = 1
+
+        for (i in 0..<m) {
+            for (j in 1..<n) {
+                dp[j] = dp[j] + dp[j - 1]
+            }
+        }
+        
+        return dp[n-1]
+    }
+}
+```
