@@ -84,3 +84,4 @@ A personal note for Data structure and algorithm learning.
 - [Number of Matching Subsequences](https://github.com/swksysb1124/DsaNote/blob/main/NumberOfMatchingSubsequences.md)
 - [Subarray Sum Equals K](https://github.com/swksysb1124/DsaNote/blob/main/SubarraySumEqualsK.md)
 - [Unique Paths](https://github.com/swksysb1124/DsaNote/blob/main/UniquePaths.md)
+- [Find Original Array From Doubled Array](https://github.com/swksysb1124/DsaNote/blob/main/FindOriginalArrayFromDoubledArray.md)
