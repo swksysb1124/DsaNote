@@ -87,3 +87,4 @@ A personal note for Data structure and algorithm learning.
 - [Find Original Array From Doubled Array](https://github.com/swksysb1124/DsaNote/blob/main/FindOriginalArrayFromDoubledArray.md)
 - [Student Attendance Record II](https://github.com/swksysb1124/DsaNote/blob/main/StudentAttendanceRecordII.md)
 - [Find Duplicate Subtrees](https://github.com/swksysb1124/DsaNote/blob/main/FindDuplicateSubtrees.md)
+- [Bulls and Cows](https://github.com/swksysb1124/DsaNote/blob/main/BullsAndCows.md)
