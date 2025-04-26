@@ -74,7 +74,7 @@ A personal note for Data structure and algorithm learning.
 - [First Bad Version](https://github.com/swksysb1124/DsaNote/blob/main/FirstBadVersion.md)
 - [Find Leaves of Binary Tree](https://github.com/swksysb1124/DsaNote/blob/main/FindBinaryLeaves.md)
 - [Random Pick with Weight](https://github.com/swksysb1124/DsaNote/blob/main/RandomPickWithWeight.md)
-- [Happy Number](https://github.com/swksysb1124/DsaNote/blob/main/IsHAppy.md)
+- [Happy Number](https://github.com/swksysb1124/DsaNote/blob/main/HappyNumber.md)
 - [Logger Rate Limiter](https://github.com/swksysb1124/DsaNote/blob/main/LoggerRateLimiter.md)
 - [Text Justification](https://github.com/swksysb1124/DsaNote/blob/main/TextJustification.md)
 - [Number of Islands](https://github.com/swksysb1124/DsaNote/blob/main/NumberOfIslands.md)
