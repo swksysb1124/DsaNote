@@ -29,7 +29,7 @@ A personal note for Data structure and algorithm learning.
 - [Evaluate Reverse Polish Notation](https://github.com/swksysb1124/DsaNote/blob/main/EvaluateReversePolishNotation.md)
 - [Longest Palindromic Substring](https://github.com/swksysb1124/DsaNote/blob/main/LongestPalindromeSubstring.md)
 - Word Ladder
-- Median of Two Sorted Arrays
+- [Median of Two Sorted Arrays](https://github.com/swksysb1124/DsaNote/blob/main/MedianOfTwoSorted Arrays.md)
 - Merge Intervals
 - Insert Interval
 - [Two Sum](https://github.com/swksysb1124/DsaNote/blob/main/TwoSum.md)
