@@ -90,3 +90,4 @@ A personal note for Data structure and algorithm learning.
 - [Bulls and Cows](https://github.com/swksysb1124/DsaNote/blob/main/BullsAndCows.md)
 - [Basic Calculator](https://github.com/swksysb1124/DsaNote/blob/main/BasicCalculator.md)
 - [Best Time to Buy and Sell Stock](https://github.com/swksysb1124/DsaNote/blob/main/BestTimeToBuyAndSellStock.md)
+- [Longest Common Prefix](https://github.com/swksysb1124/DsaNote/blob/main/LongestCommonPrefix.md)
