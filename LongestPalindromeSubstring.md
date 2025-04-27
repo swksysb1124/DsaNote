@@ -97,7 +97,6 @@ scan j from i to n - 1
 class Solution {
     fun longestPalindrome(s: String): String {
         val n = s.length 
-        if (n == 1) return s
 
         var maxLen = 0
         var result = ""
@@ -106,7 +105,7 @@ class Solution {
         val dp = Array(n) { BooleanArray(n) { false } }
         val chars = s.toCharArray()
 
-        for (i in n - 2 downTo 0) {
+        for (i in n - 1 downTo 0) {
             for (j in i until n) {
                 if (chars[i] == chars[j] && (j - i < 2 || dp[i + 1][j - 1])) {
                     dp[i][j] = true
