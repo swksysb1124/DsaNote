@@ -43,7 +43,7 @@ Explanation: The game ends in a draw since there are no moves to make.
 
 - `1 <= moves.length <= 9`
 - `moves[i].length == 2`
-- `0 <= rowi, coli <= 2`
+- $0 <= row_i, col_i<= 2$
 - There are no repeated elements on `moves`.
 - `moves` follow the rules of tic tac toe.
 
