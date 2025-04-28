@@ -94,3 +94,4 @@ A personal note for Data structure and algorithm learning.
 - [Time Needed to Inform All Employees](https://github.com/swksysb1124/DsaNote/blob/main/TimeNeededToInformAllEmployees.md)
 - [Find Winner on a Tic Tac Toe Game](https://github.com/swksysb1124/DsaNote/blob/main/FindWinnerOnATicTacToeGame.md)
 - [Course Schedule II](https://github.com/swksysb1124/DsaNote/blob/main/CourseScheduleII.md)
+- [Insert Interval](https://github.com/swksysb1124/DsaNote/blob/main/InsertInterval.md)
