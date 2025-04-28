@@ -93,3 +93,4 @@ A personal note for Data structure and algorithm learning.
 - [Longest Common Prefix](https://github.com/swksysb1124/DsaNote/blob/main/LongestCommonPrefix.md)
 - [Time Needed to Inform All Employees](https://github.com/swksysb1124/DsaNote/blob/main/TimeNeededToInformAllEmployees.md)
 - [Find Winner on a Tic Tac Toe Game](https://github.com/swksysb1124/DsaNote/blob/main/FindWinnerOnATicTacToeGame.md)
+- [Course Schedule II](https://github.com/swksysb1124/DsaNote/blob/main/CourseScheduleII.md)
