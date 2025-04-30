@@ -32,9 +32,7 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 ```kotlin
 class Solution {
     fun isPalindrome(x: Int): Boolean {
-        if (x == 0) return true
         if (x < 0) return false
-        if (x < 10) return true
 
         val str = x.toString()
         val len = str.length
