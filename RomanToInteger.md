@@ -53,6 +53,9 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 - It is **guaranteed** that s is a valid roman numeral in the range `[1, 3999]`.
 
 ## Solution
+
+核心概念：很簡單，就是依照題意轉換羅馬文字為數字，而當羅馬文字為 `I`、`X`、`C`，同時確認下一個羅馬文字來看是否要特別處理。
+
 ```kotlin
 class Solution {
     fun romanToInt(s: String): Int {
@@ -103,6 +106,45 @@ class Solution {
             }
             i++
         }
+        return sum
+    }
+}
+```
+
+**進階**
+
+假設我們先不特別處理`I`、`X`、`C`，而是把他們當 1, 10, 100 處理，`IV` 我們會處理成 6 而不是 4，`IX` 會處理成 11 而不是 9。也就是會多加 2。同理，`XL`跟`XC` 會多算 20，而 `CD`跟`CM` 會多算 200。所以我們先不特別處理 `I`、`X`、`C`，將羅馬文字轉換成數字加總起來，最後在針對 `I`、`X`、`C` 減去多加的部分。
+
+```kotlin
+class Solution {
+    fun romanToInt(s: String): Int {
+        if (s.isEmpty()) return 0
+        val n = s.length
+        var sum = 0
+
+        for (i in 0..<n) {
+            val roman = s[i]
+            when (roman) {
+                'I' -> sum += 1
+                'V' -> sum += 5
+                'X' -> sum += 10
+                'L' -> sum += 50
+                'C' -> sum += 100
+                'D' -> sum += 500
+                'M' -> sum += 1000
+            }
+        } 
+
+        for (i in 0..<n-1) {
+            val roman = s[i]
+            val next = s[i + 1]
+            when {
+                roman == 'I' && (next == 'V' || next == 'X') -> sum -= 2  
+                roman == 'X' && (next == 'L' || next == 'C')-> sum -= 20
+                roman == 'C' && (next == 'D' || next == 'M')-> sum -= 200
+            }
+        }
+
         return sum
     }
 }
