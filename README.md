@@ -104,3 +104,4 @@ A personal note for Data structure and algorithm learning.
 - [Design Search Autocomplete System](https://github.com/swksysb1124/DsaNote/blob/main/DesignSearchAutocompleteSystem.md)
 - [Implement Trie (Prefix Tree)](https://github.com/swksysb1124/DsaNote/blob/main/ImplementTrie.md)
 - [Count Square Submatrices with All Ones](https://github.com/swksysb1124/DsaNote/blob/main/CountSquareSubmatricesWithAllOnes.md)
+- [Network Delay Time](https://github.com/swksysb1124/DsaNote/blob/main/NetworkDelayTime.md)
