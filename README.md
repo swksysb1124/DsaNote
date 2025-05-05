@@ -2,7 +2,7 @@
 A personal note for Data structure and algorithm learning.
 
 ## Template
-- [Template]((https://github.com/swksysb1124/DsaNote/blob/main/Template.md)
+- [Template](https://github.com/swksysb1124/DsaNote/blob/main/Template.md)
 
 ## Algorithm
 - [Fibonassi](https://github.com/swksysb1124/DsaNote/blob/main/Fibonassi.md)
