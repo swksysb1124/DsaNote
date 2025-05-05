@@ -28,6 +28,10 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 - `s` consists of English letters, digits, symbols and spaces.
 
 ## Solution
+使用 **Sliding Window** 技巧。以 `HashMap` 紀錄 **window** 的字元及個數。
+- 當 `right` 指針前進時，將指向的字元 `c`，加入 **window**
+- 接下來當發現 `c` 在 **window** 內的數量大於 `1`，前進 `left` 直到 `c` 的數量回到 `1`。`left` 前進的同時也需要把相關資源清除。
+
 ```kotlin
 class Solution {
     fun lengthOfLongestSubstring(s: String): Int {
