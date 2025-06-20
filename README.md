@@ -3,52 +3,52 @@ A personal note for Data structure and algorithm learning.
 
 ## Array
 - [Two Sum (Leetcode, Easy)](https://github.com/swksysb1124/DsaNote/blob/main/TwoSum.md)
-- [Subarray Sum Equals K](https://github.com/swksysb1124/DsaNote/blob/main/SubarraySumEqualsK.md)
-- [Find Original Array From Doubled Array](https://github.com/swksysb1124/DsaNote/blob/main/FindOriginalArrayFromDoubledArray.md)
-- [Maximum Subarray](https://github.com/swksysb1124/DsaNote/blob/main/MaximumSubarray.md)
-- [Insert Interval](https://github.com/swksysb1124/DsaNote/blob/main/InsertInterval.md)
-- Merge Intervals
-- Determine if Two Events Have Conflict
-- Two Sum III Data structure design
+- Determine if Two Events Have Conflict (Leetcode, Easy)
+- [Find Original Array From Doubled Array (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/FindOriginalArrayFromDoubledArray.md)
+- [Insert Interval (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/InsertInterval.md)
+- Merge Intervals (Leetcode, Medium)
+
+## Prefix
+- [Subarray Sum Equals K (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/SubarraySumEqualsK.md)
 
 ## Matrix
-- [Pacific Atlantic Water Flow](https://github.com/swksysb1124/DsaNote/blob/main/PacificAtlanticWaterFlow.md)
-- [Number of Islands](https://github.com/swksysb1124/DsaNote/blob/main/NumberOfIslands.md)
-- [Find Winner on a Tic Tac Toe Game](https://github.com/swksysb1124/DsaNote/blob/main/FindWinnerOnATicTacToeGame.md)
-- [Battleships in a Board](https://github.com/swksysb1124/DsaNote/blob/main/BattleshipsInABoard.md)
-- Set Matrix Zeroes
-- Spiral Matrix
-- Rotate Image
+- [Find Winner on a Tic Tac Toe Game (Leetcode, Easy)](https://github.com/swksysb1124/DsaNote/blob/main/FindWinnerOnATicTacToeGame.md)
+- [Pacific Atlantic Water Flow (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/PacificAtlanticWaterFlow.md)
+- [Number of Islands (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/NumberOfIslands.md)
+- [Battleships in a Board (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/BattleshipsInABoard.md)
+- Set Matrix Zeroes (Leetcode, Medium)
+- Spiral Matrix (Leetcode, Medium)
+- Rotate Image (Leetcode, Medium)
 
 ## String
+- [Longest Common Prefix (Leetcode, Easy)](https://github.com/swksysb1124/DsaNote/blob/main/LongestCommonPrefix.md)
 - [Open the Lock (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/OpenLock.md)
-- [Replace Words](https://github.com/swksysb1124/DsaNote/blob/main/ReplaceWords.md)
-- [Text Justification](https://github.com/swksysb1124/DsaNote/blob/main/TextJustification.md)
-- [Longest Common Prefix](https://github.com/swksysb1124/DsaNote/blob/main/LongestCommonPrefix.md)
-- [Bulls and Cows](https://github.com/swksysb1124/DsaNote/blob/main/BullsAndCows.md)
-- [Sentence Screen Fitting](https://github.com/swksysb1124/DsaNote/blob/main/SentenceScreenFitting.md)
-- String to Integer (atoi)
+- [Bulls and Cows (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/BullsAndCows.md)
+- [Sentence Screen Fitting (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/SentenceScreenFitting.md)
+- String to Integer (atoi) (Leetcode, Medium)
+- [Text Justification (Leetcode, Hard)](https://github.com/swksysb1124/DsaNote/blob/main/TextJustification.md)
 
 ## Trie
-- [Design Search Autocomplete System](https://github.com/swksysb1124/DsaNote/blob/main/DesignSearchAutocompleteSystem.md)
+- [Replace Words (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/ReplaceWords.md)
+- [Design Search Autocomplete System (Leetcode, Hard)](https://github.com/swksysb1124/DsaNote/blob/main/DesignSearchAutocompleteSystem.md)
 
 ## Stack
-- [Decode String](https://github.com/swksysb1124/DsaNote/blob/main/DecodeString.md)
+- Valid Parentheses (Leetcode, Easy)
+- [Decode String (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/DecodeString.md)
 - [Evaluate Reverse Polish Notation (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/EvaluateReversePolishNotation.md)
-- [Basic Calculator](https://github.com/swksysb1124/DsaNote/blob/main/BasicCalculator.md)
-- Valid Parentheses
+- [Basic Calculator (Leetcode, Hard)](https://github.com/swksysb1124/DsaNote/blob/main/BasicCalculator.md)
 
 ## Queue
 
 ## Binary Search
 - [Binary Search](https://github.com/swksysb1124/DsaNote/blob/main/BinarySearch.md)
+- Search Insert Position (Leetcode, Easy)
+- [Find First and Last Position of Element in Sorted Array (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/FirstLastESortedArray.md)
+- [First Bad Version (Leetcode, Easy)](https://github.com/swksysb1124/DsaNote/blob/main/FirstBadVersion.md)
+- [Number of Matching Subsequences (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/NumberOfMatchingSubsequences.md)
+- Search In Rotated Sorted Array (Leetcode, Medium)
+- Search a 2D Matrix (Leetcode, Medium)
 - [Median of Two Sorted Arrays (Leetcode, Hard)](https://github.com/swksysb1124/DsaNote/blob/main/MedianOfTwoSortedArrays.md)
-- [Find First and Last Position of Element in Sorted Array](https://github.com/swksysb1124/DsaNote/blob/main/FirstLastESortedArray.md)
-- [First Bad Version](https://github.com/swksysb1124/DsaNote/blob/main/FirstBadVersion.md)
-- [Number of Matching Subsequences](https://github.com/swksysb1124/DsaNote/blob/main/NumberOfMatchingSubsequences.md)
-- Search In Rotated Sorted Array
-- Search Insert Position
-- Search a 2D Matrix
 
 ## Math
 - [Roman to Integer (Leetcode, Easy)](https://github.com/swksysb1124/DsaNote/blob/main/RomanToInteger.md)
@@ -69,22 +69,23 @@ A personal note for Data structure and algorithm learning.
 - Merge Sorted Array
 - Find the Index of the First Occurrence in a String
 - Valid Palindrome
+- [Linked List Cycle (Leetcode, Easy)](https://github.com/swksysb1124/DsaNote/blob/main/LinkedListCycle.md)
+- [Linked List Cycle II (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/LinkedListCycleII.md)
+- [Middle of the Linked List](https://github.com/swksysb1124/DsaNote/blob/main/MiddleLinkedList.md)
 
 ## Sliding Window
-- [Maximum Points You Can Obtain from Cards](https://github.com/swksysb1124/DsaNote/blob/main/MaximumPointsObtainFromCards.md)
+- [Maximum Points You Can Obtain from Cards (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/MaximumPointsObtainFromCards.md)
+- [Maximum Subarray (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/MaximumSubarray.md)
 
 ## Linked List
 - [Linked List](https://github.com/swksysb1124/DsaNote/blob/main/ListNode.md)
-- [Add Two Numbers](https://github.com/swksysb1124/DsaNote/blob/main/AddTwoNumbers.md)
-- [Reverse Linked List](https://github.com/swksysb1124/DsaNote/blob/main/ReverseLinkedList.md)
-- [Linked List Cycle](https://github.com/swksysb1124/DsaNote/blob/main/LinkedListCycle.md)
-- [Linked List Cycle II](https://github.com/swksysb1124/DsaNote/blob/main/LinkedListCycleII.md)
-- [Middle of the Linked List](https://github.com/swksysb1124/DsaNote/blob/main/MiddleLinkedList.md)
 
 ## Recursive
 - [DFS/BFS](https://github.com/swksysb1124/DsaNote/blob/main/Template.md)
-- [Swap Nodes in Pairs](https://github.com/swksysb1124/DsaNote/blob/main/SwapNodesInPairs.md)
+- [Swap Nodes in Pairs (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/SwapNodesInPairs.md)
 - Word Ladder
+- [Add Two Numbers (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/AddTwoNumbers.md)
+- [Reverse Linked List (Leetcode, Easy)](https://github.com/swksysb1124/DsaNote/blob/main/ReverseLinkedList.md)
 
 ## Topological Sort
 - [Course Schedule II](https://github.com/swksysb1124/DsaNote/blob/main/CourseScheduleII.md)
@@ -150,3 +151,4 @@ A personal note for Data structure and algorithm learning.
 - [Logger Rate Limiter](https://github.com/swksysb1124/DsaNote/blob/main/LoggerRateLimiter.md)
 - Snapshot Array
 - Stock Price Fluctuation (TreeMap)
+- Two Sum III Data structure design 
