@@ -125,10 +125,11 @@ A personal note for Data structure and algorithm learning.
 - [Unique Paths](https://github.com/swksysb1124/DsaNote/blob/main/UniquePaths.md)
 - [Partition Equal Subset Sum](https://github.com/swksysb1124/DsaNote/blob/main/PartitionEqualSubsetSum.md)
 - [Student Attendance Record II](https://github.com/swksysb1124/DsaNote/blob/main/StudentAttendanceRecordII.md)
-
 - [Count Square Submatrices with All Ones](https://github.com/swksysb1124/DsaNote/blob/main/CountSquareSubmatricesWithAllOnes.md)
 - [Split Array Largest Sum](https://github.com/swksysb1124/DsaNote/blob/main/SplitArrayLargestSum.md)
 - Word break
+- [Jump Game (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/JumpGame.md)
+- [Jump Game II (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/JumpGameII.md)
 
 ## Backtracking
 - [Permutations](https://github.com/swksysb1124/DsaNote/blob/main/Permutations.md)
