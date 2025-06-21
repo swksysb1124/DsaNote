@@ -125,7 +125,7 @@ A personal note for Data structure and algorithm learning.
 - [Unique Paths](https://github.com/swksysb1124/DsaNote/blob/main/UniquePaths.md)
 - [Partition Equal Subset Sum](https://github.com/swksysb1124/DsaNote/blob/main/PartitionEqualSubsetSum.md)
 - [Student Attendance Record II](https://github.com/swksysb1124/DsaNote/blob/main/StudentAttendanceRecordII.md)
-- [Best Time to Buy and Sell Stock](https://github.com/swksysb1124/DsaNote/blob/main/BestTimeToBuyAndSellStock.md)
+
 - [Count Square Submatrices with All Ones](https://github.com/swksysb1124/DsaNote/blob/main/CountSquareSubmatricesWithAllOnes.md)
 - [Split Array Largest Sum](https://github.com/swksysb1124/DsaNote/blob/main/SplitArrayLargestSum.md)
 - Word break
@@ -136,7 +136,9 @@ A personal note for Data structure and algorithm learning.
 - Word break II
 
 ## Greedy Algorithm
-- [Meeting Rooms II](https://github.com/swksysb1124/DsaNote/blob/main/MeetingRoomsII.md)
+- [Best Time to Buy and Sell Stock (Leetcode, Easy)](https://github.com/swksysb1124/DsaNote/blob/main/BestTimeToBuyAndSellStock.md)
+- [Best Time to Buy and Sell Stock II (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/BestTimeToBuyAndSellStockII.md)
+- [Meeting Rooms II (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/MeetingRoomsII.md)
 
 
 ## Union Find
