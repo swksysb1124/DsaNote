@@ -62,3 +62,37 @@ class Solution {
     }
 }
 ```
+
+Greedy
+
+```kotlin
+class Solution {
+    fun jump(nums: IntArray): Int {
+        val n = nums.size
+        if (n == 1) return 0
+
+        var cur = 0
+        var last = 0
+        var jumps = 0
+
+        for (i in 0 until n) {
+            // 更新目前起點最遠可達距離
+            cur = max(cur, i + nums[i])
+
+            // 如果上一次最遠可達距離等於目前起點
+            if (i == last) {
+                // 更新上一次最遠可達距離
+                last = cur 
+                
+                // 增加跳躍數
+                jump++
+
+                // 如果目前最遠可達距離 大於或等於 最後一格   
+                if (cur >= n - 1) break
+            }
+        }
+
+        return jumps
+    }
+}
+```
