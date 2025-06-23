@@ -77,6 +77,9 @@ A personal note for Data structure and algorithm learning.
 - [Maximum Points You Can Obtain from Cards (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/MaximumPointsObtainFromCards.md)
 - [Maximum Subarray (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/MaximumSubarray.md)
 
+## Bucket Sort
+- [H-Index](https://github.com/swksysb1124/DsaNote/blob/main/HIndex.md)
+
 ## Linked List
 - [Linked List](https://github.com/swksysb1124/DsaNote/blob/main/ListNode.md)
 
