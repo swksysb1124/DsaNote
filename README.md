@@ -52,10 +52,11 @@ A personal note for Data structure and algorithm learning.
 
 ## Math
 - [Roman to Integer (Leetcode, Easy)](https://github.com/swksysb1124/DsaNote/blob/main/RomanToInteger.md)
-- [Random Pick with Weight](https://github.com/swksysb1124/DsaNote/blob/main/RandomPickWithWeight.md)
-- [Happy Number](https://github.com/swksysb1124/DsaNote/blob/main/HappyNumber.md)
-- [Palindrome Number](https://github.com/swksysb1124/DsaNote/blob/main/PalindromeNumber.md)
-- Minimum Time Difference
+- [Happy Number (Leetcode, Easy)](https://github.com/swksysb1124/DsaNote/blob/main/HappyNumber.md)
+- [Palindrome Number (Leetcode, Easy)](https://github.com/swksysb1124/DsaNote/blob/main/PalindromeNumber.md)
+- [Random Pick with Weight (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/RandomPickWithWeight.md)
+- Minimum Time Difference (Leetcode, Medium)
+- [Insert Delete GetRandom O(1) (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/InsertDeleteGetRandom.md)
 
 ## Two Pointers
 - [Rotate Array](https://github.com/swksysb1124/DsaNote/blob/main/RotateArrray.md)
@@ -78,7 +79,7 @@ A personal note for Data structure and algorithm learning.
 - [Maximum Subarray (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/MaximumSubarray.md)
 
 ## Bucket Sort
-- [H-Index](https://github.com/swksysb1124/DsaNote/blob/main/HIndex.md)
+- [H-Index (Leetcode, Medium)](https://github.com/swksysb1124/DsaNote/blob/main/HIndex.md)
 
 ## Linked List
 - [Linked List](https://github.com/swksysb1124/DsaNote/blob/main/ListNode.md)
